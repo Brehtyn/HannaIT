@@ -1,0 +1,111 @@
+.page[b-y7xreefxs1] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.main[b-y7xreefxs1] {
+    flex: 1;
+}
+
+.home_banner[b-y7xreefxs1] {
+    width:100%;
+    background-image:url(../wwwroot/assets/home_banner.jpg)
+}
+
+.quick_info[b-y7xreefxs1] {
+    width:100%;
+    background-color:#2b4a59;
+    color:white;
+}
+
+.contact_info[b-y7xreefxs1] {
+    float:left;
+}
+
+.hours_info[b-y7xreefxs1] {
+    float:right;
+}
+
+.sidebar[b-y7xreefxs1] {
+    background-image: linear-gradient(180deg, rgb(70, 121, 154) 0%, rgb(79, 154, 70)
+    75%);
+}
+
+.footer[b-y7xreefxs1] {
+    padding:10px;
+    width:100%;
+    text-align: center;
+    background-color:#4f9a46;
+    font-size: .8rem;
+}
+
+.top-row[b-y7xreefxs1] {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row[b-y7xreefxs1]  a, .top-row .btn-link[b-y7xreefxs1] {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+    }
+
+    .top-row a:first-child[b-y7xreefxs1] {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+@media (max-width: 640.98px) {
+    .top-row:not(.auth)[b-y7xreefxs1] {
+        display: none;
+    }
+
+    .top-row.auth[b-y7xreefxs1] {
+        justify-content: space-between;
+    }
+
+    .top-row a[b-y7xreefxs1], .top-row .btn-link[b-y7xreefxs1] {
+        margin-left: 0;
+    }
+    
+    .quick_info[b-y7xreefxs1] {
+        font-size: 1.9vw;
+        height: 35px;
+        padding: 10px 0 0 15px;
+    }
+
+}
+
+@media (min-width: 641px) {
+    .page[b-y7xreefxs1] {
+        flex-direction: row;
+    }
+
+    .sidebar[b-y7xreefxs1] {
+        width: 200px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .quick_info[b-y7xreefxs1] {
+        font-size: 13px;
+        height: 55px;
+        padding: 20px 0 0 15px;
+    }
+
+    .top-row[b-y7xreefxs1] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+    .main > div[b-y7xreefxs1] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}
