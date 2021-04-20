@@ -12,39 +12,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -1409829924,
-        "Kind": "Components.Component",
-        "Name": "HannaIT.Pages.Services",
-        "AssemblyName": "HannaIT",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Services"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "HannaIT.Pages.Services"
-        }
-      },
-      {
-        "HashCode": -404263335,
-        "Kind": "Components.Component",
-        "Name": "HannaIT.Pages.Services",
-        "AssemblyName": "HannaIT",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "HannaIT.Pages.Services"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "HannaIT.Pages.Services",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -2121440719,
         "Kind": "Components.Component",
         "Name": "HannaIT.Pages.Clients",
@@ -74,39 +41,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "HannaIT.Pages.Clients",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1295481546,
-        "Kind": "Components.Component",
-        "Name": "HannaIT.Pages.Index",
-        "AssemblyName": "HannaIT",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "HannaIT.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -46580425,
-        "Kind": "Components.Component",
-        "Name": "HannaIT.Pages.Index",
-        "AssemblyName": "HannaIT",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "HannaIT.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "HannaIT.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -144,6 +78,39 @@
         }
       },
       {
+        "HashCode": -1295481546,
+        "Kind": "Components.Component",
+        "Name": "HannaIT.Pages.Index",
+        "AssemblyName": "HannaIT",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HannaIT.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -46580425,
+        "Kind": "Components.Component",
+        "Name": "HannaIT.Pages.Index",
+        "AssemblyName": "HannaIT",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "HannaIT.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HannaIT.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1373054412,
         "Kind": "Components.Component",
         "Name": "HannaIT.Pages.Resources",
@@ -177,6 +144,39 @@
         }
       },
       {
+        "HashCode": -1409829924,
+        "Kind": "Components.Component",
+        "Name": "HannaIT.Pages.Services",
+        "AssemblyName": "HannaIT",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Services"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HannaIT.Pages.Services"
+        }
+      },
+      {
+        "HashCode": -404263335,
+        "Kind": "Components.Component",
+        "Name": "HannaIT.Pages.Services",
+        "AssemblyName": "HannaIT",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "HannaIT.Pages.Services"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HannaIT.Pages.Services",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1881612859,
         "Kind": "Components.Component",
         "Name": "HannaIT.App",
@@ -206,39 +206,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "HannaIT.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 2086781187,
-        "Kind": "Components.Component",
-        "Name": "HannaIT.Shared.NavMenu",
-        "AssemblyName": "HannaIT",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "HannaIT.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": 2114646304,
-        "Kind": "Components.Component",
-        "Name": "HannaIT.Shared.NavMenu",
-        "AssemblyName": "HannaIT",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "HannaIT.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "HannaIT.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -335,6 +302,39 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "HannaIT.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 2086781187,
+        "Kind": "Components.Component",
+        "Name": "HannaIT.Shared.NavMenu",
+        "AssemblyName": "HannaIT",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HannaIT.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": 2114646304,
+        "Kind": "Components.Component",
+        "Name": "HannaIT.Shared.NavMenu",
+        "AssemblyName": "HannaIT",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "HannaIT.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "HannaIT.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
